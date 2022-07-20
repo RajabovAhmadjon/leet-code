@@ -1,1 +1,3 @@
-# leet-code
+# LeetCode.com
+
+## My free time practise
